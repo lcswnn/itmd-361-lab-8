@@ -39,3 +39,24 @@
   color: #fff;
   text-decoration: none;
 }
+
+#sidebar {
+  position: fixed;
+  right:0%;
+  background-color: red;
+  height: 100%;
+  width: 20%;
+}
+
+#sidebar ul {
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+}
+
+#sidebar ul li a {
+  display: block;
+  padding: 15px 0;
+  color: #fff;
+  text-decoration: none;
+}
